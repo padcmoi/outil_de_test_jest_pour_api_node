@@ -23,7 +23,7 @@ npm run test:unit
 ```
 
 ## 🔖 Licence
-Ce travail est sous licence [MIT](/LICENSE.md).
+Ce travail est sous licence [MIT](/LICENSE).
 
 
 ## Si vous souhaitez me contacter par discord
