@@ -8,7 +8,7 @@
   },
   "jest": {
     "testMatch": [
-      "**/tests/unit/*.spec.js"
+      "**/tests/unit/**/*.spec.js"
     ]
   },
   "dependencies": {
